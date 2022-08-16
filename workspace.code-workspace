@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "python-docker"
+		},
+		{
+			"path": "..\\flask"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
